@@ -1,14 +1,8 @@
 
 # About
 
-This webiste generated using a *modified version* of jemdoc+MathJax http://www.mit.edu/~wsshin/jemdoc+mathjax.html. 
-
-Some more documentation:
-https://dev10110.github.io/jemdocMathJaxMaterialize.html
-
-# Live Demo
-
-https://dev10110.github.io
+This webiste generated using jemdoc+MathJax http://www.mit.edu/~wsshin/jemdoc+mathjax.html. 
+Template forked from: https://dev10110.github.io/jemdocMathJaxMaterialize.html
 
 # Usage
 
