@@ -3,6 +3,129 @@
 
 [https://scholar.google.com/citations?user=0KfKHOsAAAAJ&hl=en Google Scholar Page]
 
+- SRPose: Two-view Relative Pose Estimation with Sparse Keypoints, ECCV 2024\n
+  Rui Yin, Biao Jia, Zherong Pan, Yulun Zhang
+
+- [https://arxiv.org/abs/2302.01135 Provably Robust Semi-Infinite Program Under Collision Constraints via Subdivision], TRO 2024\n
+  Duo Zhang, Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan
+
+- [https://arxiv.org/abs/2311.01717 Second-Order Convergent Collision-Constrained Optimization-Based Planner], RAL 2024\n
+  Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan
+
+- [https://arxiv.org/abs/2406.18539 TexPainter: Generative Mesh Texturing with Multi-view Consistency], SIGGRAPH 2024\n
+  Hongkun Zhang, Zherong Pan, Lifeng Zhu, Congyi Zhang, Xifeng Gao
+
+- [assets/textcrowd-2024.pdf Text-Guided Synthesis of Crowd Animation], SIGGRAPH 2024\n
+  Xuebo Ji, Zherong Pan, Xifeng Gao, Jia Pan
+
+- [assets/hairinterp-2024.pdf Real-Time Physically Guided Hair Interpolation], TOG 2024\n
+  Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu
+
+- [assets/proxycloth-2024.pdf Proxy Asset Generation for Cloth Simulation in Games], TOG 2024\n
+  Zhongtian Zhang, Xifeng Gao, Zherong Pan, Tongtong Wang, Kui Wu
+
+- [https://arxiv.org/abs/2312.01498 Learning Neural Traffic Rules], RAL 2024\n
+  Xuan Zhang, Xifeng Gao, Kui Wu, Zherong Pan
+
+- [https://arxiv.org/abs/2309.00134 Visual-Guided Mesh Repair], TVCG 2024\n
+  Zhongtian Zheng, Xifeng Gao, Zherong Pan, Wei Li, Kui Wu, Pengshuai Wang
+
+- [https://ojs.aaai.org/index.php/AAAI/article/view/29367 Learning Reduced Fluid Dynamics], AAAI 2024\n
+  Zherong Pan, Xifeng Gao, Kui Wu
+
+- [assets/AtlasCompression-2023.pdf Texture Atlas Compression Based on Repeated Content Removal], SIGGRAPH Asia 2023\n
+  Yuzhe Luo, Kui Wu, Zherong Pan, Xiaogang Jin, Xifeng Gao
+
+- [assets/WaterSand-2023.pdf Real-time Height-field Simulation of Sand and Water Mixtures], SIGGRAPH Asia 2023\n
+  Haozhe Su, Siyu Zhang, Zherong Pan, Xifeng Gao, Kui Wu
+
+- [https://arxiv.org/abs/2309.10329 Learning-based 2D Irregular Shape Packing], TOG 2023\n
+  Zeshi Yang, Zherong Pan, Kui Wu, Manyi Li, Xifeng Gao
+
+- [assets/LBM-2023.pdf Lightweight \& Lightspeed Simulation of Turbulent Flows Through High-order Moment-encoded LBM], TOG 2023\n
+  Wei Li, Kui Wu, Xifeng Gao, Zherong Pan, Tongtong Wang, Mathieu Desbrun
+
+- [https://arxiv.org/abs/2311.01720 Learning Reduced-Order Soft Robot Controller], IROS 2023\n
+  Chen Liang, Xifeng Gao, Kui Wu, Zherong Pan
+
+- [https://arxiv.org/abs/2212.02094 Learning Physically Realizable Packing Skills for General 3D Shapes], TOG 2023\n
+  Hang Zhao, Zherong Pan, Kai Xu
+
+- [https://dl.acm.org/doi/10.1145/3617683 Joint UV Optimization and Texture Baking for Geometry in the Wild], TOG 2023\n
+  Julian Knodt, Zherong Pan, Xifeng Gao, Kui Wu
+
+- [assets/RobustLowPoly-2023.pdf Robust Low-Poly Meshing for General 3D Models], TOG 2023\n
+  Zhen Chen, Kui Wu, Zherong Pan, Etienne Vouga, Xifeng Gao
+
+- [assets/SagFree-2023.pdf Sagging-Free Initialization for Hybrid Strand-based Hairs], TOG 2023\n
+  Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu
+
+- [assets/DiffMultiAgent-2023.pdf Differentiable Learning of Scalable Multi-Agent Navigation Policies], RAL 2023\n
+  Xiaohan Ye, Zherong Pan, Xifeng Gao, Kui Wu, Bo Ren
+
+- [https://arxiv.org/abs/2303.09139 Real-Time Decentralized Navigation of Nonholonomic Agents Using Shifted Yielding Areas], ICRA 2023\n
+  Liang He, Zherong Pan, Dinesh Manocha
+
+- [https://arxiv.org/abs/2204.06204 First-Order Bilevel Topology Optimization for Fast Mechanical Design], CAD 2023\n
+  Zherong Pan, Xifeng Gao, Kui Wu
+
+- [assets/EnvWarp-2022.pdf Environment Warped Gait Trajectory Optimization for Complex Terrains], RAL 2022\n
+  Zherong Pan, Xifeng Gao, Kui Wu
+
+- [assets/PG-2022.pdf Occluder Generation for Buildings in Digital Games], PG 2022\n
+  Kui Wu, Xu He, Zherong Pan, Xifeng Gao
+
+- [https://arxiv.org/abs/2002.11892 Multi-Agent Path Planning Using Medial-Axis-Based Pebble-Graph Embedding], IROS 2022\n
+  Liang He, Zherong Pan, Kiril Solovey, Biao Jia, Dinesh Manocha
+
+- [https://proceedings.mlr.press/v162/tan22b/tan22b.pdf Active Learning of Neural Collision Handler for Complex 3D Mesh Deformations], ICML 2022\n
+  Qingyang Tan, Zherong Pan, Breannan Smith, Takaaki Shiratori, Dinesh Manocha
+
+- [Survey-2022.pdf Algorithms and Systems for Manipulating Multiple Objects], TRO 2022\n
+  Zherong Pan, Andy Zeng, Yunzhu Li, Jinjing Yu, Kris Hauser
+
+- [assets/FluidRL-2022.pdf Versatile Control of Fluid-Directed Solid Objects Using Multi-Task Reinforcement Learning], TOG 2022\n
+  Xiaohan Ye, Zherong Pan, Taiyuan Zhang, Bo Ren
+
+- [https://arxiv.org/abs/2108.03368 Multi-Robot Path Planning in Complex Environments via Graph Embedding], RAL 2022\n
+  Xifeng Gao, Zherong Pan, Ruiqi Ni
+
+- [assets/LowPoly-2022.pdf Low-poly Mesh Generation for Building Models], SIGGRAPH 2022\n
+  Xifeng Gao, Zherong Pan, Kui Wu
+
+- [https://arxiv.org/abs/2111.07016 Robust Multi-Robot Trajectory Generation Using Alternating Direction Method of Multiplier], RAL 2022\n
+  Ruiqi Ni, Zherong Pan, Xifeng Gao
+
+- [https://arxiv.org/abs/2108.00285 Planning of Power Grasps Using Infinite Program Under Complementary Constraints], RAL 2022\n
+  Zherong Pan, Duo Zhang, Changhe Tu, Xifeng Gao 
+
+- [https://arxiv.org/abs/2109.03392 Joint Search of Optimal Topology and Trajectory for Planar Linkages], IJRR 2022\n
+  Zherong Pan, Min Liu, Xifeng Gao, Dinesh Manocha
+
+- [assets/GNN-2021.pdf Decentralized, Unlabeled Multi-Agent Navigation in Obstacle-Rich Environments Using Graph Neural Networks], IROS 2021\n
+  Xuebo Ji, He Li, Zherong Pan, Xifeng Gao, Changhe Tu
+
+- [https://arxiv.org/abs/2011.03632 LCollision: Fast Generation of Collision-Free Human Poses using Learned Non-Penetration Constraints], AAAI 2021\n
+  Qingyang Tan, Zherong Pan, Dinesh Manocha
+
+- [https://arxiv.org/abs/2010.14691 Implicit Integration for Articulated Bodies with Contact via the Nonconvex Maximal Dissipation Principle], ICRA 2021\n
+  Zherong Pan, Kris Hauser. 
+
+- [https://arxiv.org/abs/2010.10064 Decision Making in Joint Push-Grasp Action Space for Large-Scale Object Sorting], ICRA 2021\n
+  Zherong Pan, Kris Hauser
+
+- [assets/Drone-2021.pdf Robust \& Asymptotically Locally Optimal UAV-Trajectory Generation Based on Spline Subdivision], ICRA 2021\n
+  Ruiqi Ni, Teseo Schneider, Daniele Panozzo, Zherong Pan, Xifeng Gao
+
+- [assets/UVDisinfection-2021.pdf Optimized Coverage Planning for UV Surface Disinfection], ICRA 2021\n
+  Joao Marcos Correia Marques, Ramya Ramalingam, Zherong Pan, Kris Hauser
+
+- [assets/MO-BBO-2021.pdf MO-BBO: Multi-Objective Bilevel Bayesian Optimization for Robot and Behavior Co-Design], ICRA 2021\n
+  Yeonju Kim, Kris Hauser, Zherong Pan
+
+- [assets/Sand-TrajOpt-2021.pdf Contact-Implicit Trajectory Optimization With Learned Deformable Contacts Using Bilevel Optimization], ICRA 2021\n
+  Yifan Zhu, Zherong Pan, Kris Hauser
+
 - [assets/cloth_embedding-2020.pdf Realtime Simulation of Thin-Shell Deformable Materials using CNN-Based Mesh Embedding], RAL 2020\n
   Qingyang Tan, Zherong Pan, Lin Gao, Dinesh Manocha
 
