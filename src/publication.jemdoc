@@ -3,11 +3,88 @@
 
 [https://scholar.google.com/citations?user=0KfKHOsAAAAJ&hl=en Google Scholar Page]
 
-2024
+- [assets/cloth_embedding-2020.pdf Realtime Simulation of Thin-Shell Deformable Materials using CNN-Based Mesh Embedding], RAL 2020\n
+  Qingyang Tan, Zherong Pan, Lin Gao, Dinesh Manocha
 
-- CDC 2024 (under review)\n 
-  *Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes*\n
-  Devansh Agrawal, Dimitra Panagou\n
-  [assets/papers/2024_multiagent_coverage.pdf (pdf)] [assets/papers/2024_multiagent_coverage.bib (bib)]
+- [https://arxiv.org/abs/1907.08749 Grasping Fragile Objects Using A Stress-Minimization Metric], ICRA 2020\n
+  Zherong Pan, Xifeng Gao, Dinesh Manocha
+
+- [https://www.roboticsproceedings.org/rss16/p066.pdf Deep Differentiable Grasp Planner for High-DOF Grippers], RSS 2020\n
+  Min Liu, Zherong Pan, Kai Xu, Dinesh Manocha
+
+- [https://arxiv.org/pdf/1909.05430 New Formulation of Mixed-Integer Conic Programming for Globally Optimal Grasp Planning], RAL 2020\n
+  Zherong Pan, Min Liu, Kai Xu, Dinesh Manocha
+
+- [assets/inner-iros-2020.pdf Inner-Approximation of Manipulable and Reachable Regions using Bilinear Matrix Inequalities], IROS 2020\n
+  Zherong Pan, Xifeng Gao
+
+- [https://arxiv.org/abs/1802.09661 Cloth Manipulation Using Random-Forest-based Imitation Learning Framework], RAL 2019\n
+  Biao Jia, Zherong Pan, Zhe Hu, Jia Pan, Dinesh Manocha
+
+- [https://arxiv.org/abs/1809.08259 Fast Motion Planning for High-DOF Robot Systems Using Hierarchical System Identification], ICRA 2019\n
+  Zherong Pan, Biao Jia, Dinesh Manocha
+
+- [assets/PBTO_Refined-2019.pdf GPU-Based Contact-Aware Trajectory Optimization Using A Smooth Force Model], SCA 2019\n
+  Zherong Pan, Bo Ren, Dinesh Manocha
+
+- [https://arxiv.org/abs/1903.00425 Generating Grasp Poses for a High-DOF Gripper Using Neural Networks], IROS 2019\n
+  Min Liu, Zherong Pan, Kai Xu, Kanishka Ganguly, Dinesh Manocha
+
+- [assets/Linkage-ISRR-2019.pdf Globally Optimal Joint Search of Topology and Trajectory for Planar Linkages], ISRR 2019\n
+  Zherong Pan, Min Liu, Xifeng Gao, Dinesh Manocha
+
+- [https://arxiv.org/abs/1608.01250 Physics-Inspired Garment Recovery from a Single-View Image], TOG 2018\n
+  Shan Yang, Zherong Pan, Tanya Ambert, Ke Wang, Licheng Yu, Tamara L. Berg, Ming C. Lin
+
+- [assets/CoRL2017_ICRA-2018.pdf Realtime Planning for High-DOF Deformable Bodies using Two-Stage Learning], ICRA 2018\n
+  Zherong Pan, Dinesh Manocha
+  
+- [https://arxiv.org/abs/1708.08188 Active Animations of Reduced Deformable Models with Environment Interactions], TOG 2018\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/DRLFluid-2018.pdf Fluid Directed Rigid Body Control using Deep Reinforcement Learning], TOG 2018\n
+  Pingchuan Ma, Yunsheng Tian, Zherong Pan, Bo Ren, Dinesh Manocha
+
+- [assets/PBFD-2018.pdf Position-based Optimizable Time-Integrator for Frictional Articulated Bodies Dynamics], IROS 2018\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/WAFR-2018.pdf Time Integrating Articulated Body Dynamics Using Position-Based Collocation Method], WAFR 2018\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/STMGControl-2017.pdf Efficient Solver for Spacetime Control of Smoke], TOG 2017\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/grid-control-2017.pdf Editing smoke animation using a deforming grid], CVM 2017\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/Evaluation-2017.pdf Evaluating Hex-mesh Quality Metrics via Correlation Analysis], SGP 2017\n
+  Xifeng Gao, Jin Huang, Kaoji Xu, Zherong Pan, Zhigang Deng, Guoning Chen
+
+- [https://arxiv.org/abs/1609.03433 Feedback Motion Planning for Liquid Transfer using Supervised Learning], IROS 2017\n
+  Zherong Pan, Dinesh Manocha
+
+- [https://arxiv.org/abs/1603.04060 Modelling Developable Ribbons Using Ruling Bending Coordinates], Arxiv 2016\n
+  Zherong Pan, Jin Huang, Hujun Bao
+
+- [assets/iros-pouring-2016.pdf Motion planning for fluid manipulation using simplified dynamics], IROS 2016\n
+  Zherong Pan, Dinesh Manocha
+
+- [assets/icaps-pouring-2016.pdf Robot Motion Planning for Pouring Liquids], ICAPS 2016\n
+  Zherong Pan, Chonhyon Park, Dinesh Manocha
+
+- [assets/RS-dynamics-2015.pdf Subspace dynamic simulation using rotation-strain coordinates], TOG 2015\n
+  Zherong Pan, Hujun Bao, Jin Huang
+
+- [assets/collision-MPRGP-2015.pdf Deformable Objects Collision Handling with Fast Convergence], CGF 2015\n
+  Siwang Li, Zherong Pan, Jin Huang, Hujun Bao, Xiaogang Jin
+  
+- [assets/OutputCoherentLIC-2013.pdf Texture-Based Output-Coherent Surface Flow Visualization], TVCG 2013\n
+  Jin Huang, Zherong Pan, Guoning Chen, Wei Chen, Hujun Bao
+
+- [assets/liquidedit-2013.pdf Interactive localized liquid motion editing], TOG 2013\n
+  Zherong Pan, Jin Huang, Yiying Tong, Changxi Zheng, Hujun Bao
+
+- [assets/wake-2012.pdf Wake Synthesis For Shallow Water Equation], CGF 2012\n 
+  Zherong Pan, Jin Huang, Yiying Tong, Hujun Bao
 
 
