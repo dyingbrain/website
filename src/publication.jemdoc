@@ -18,7 +18,7 @@
 - [assets/textcrowd-2024.pdf Text-Guided Synthesis of Crowd Animation], SIGGRAPH 2024\n
   Xuebo Ji, Zherong Pan, Xifeng Gao, Jia Pan
 
-- [assets/hairinterp-2024.pdf Real-Time Physically Guided Hair Interpolation], TOG 2024\n
+- [assets/hairInterp-2024.pdf Real-Time Physically Guided Hair Interpolation], TOG 2024\n
   Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu
 
 - [assets/proxycloth-2024.pdf Proxy Asset Generation for Cloth Simulation in Games], TOG 2024\n
@@ -81,7 +81,7 @@
 - [https://proceedings.mlr.press/v162/tan22b/tan22b.pdf Active Learning of Neural Collision Handler for Complex 3D Mesh Deformations], ICML 2022\n
   Qingyang Tan, Zherong Pan, Breannan Smith, Takaaki Shiratori, Dinesh Manocha
 
-- [Survey-2022.pdf Algorithms and Systems for Manipulating Multiple Objects], TRO 2022\n
+- [assets/Survey-2022.pdf Algorithms and Systems for Manipulating Multiple Objects], TRO 2022\n
   Zherong Pan, Andy Zeng, Yunzhu Li, Jinjing Yu, Kris Hauser
 
 - [assets/FluidRL-2022.pdf Versatile Control of Fluid-Directed Solid Objects Using Multi-Task Reinforcement Learning], TOG 2022\n
