@@ -2,7 +2,8 @@
 # About
 
 This webiste generated using jemdoc+MathJax http://www.mit.edu/~wsshin/jemdoc+mathjax.html. 
-Template forked from: https://dev10110.github.io/jemdocMathJaxMaterialize.html
+
+Template forked from: https://dev10110.github.io/jemdocMathJaxMaterialize.html.
 
 # Usage
 
