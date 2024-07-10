@@ -1,24 +1,28 @@
 # jemdoc: menu{MENU}{index.html}
-= Devansh Agrawal
 
-{{<img src="assets/me.jpg" id="me", class="circle">}}
+{{<img src="assets/me.jpeg" id="me", class="circle" style="width: 10vw; min-width: 50px;">}}
+
+=== Zherong Pan
 
 I am a PhD student in Aerospace Engineering at the University of Michigan, studying with Professor Dimitra Panagou.
 
 My research interests include Nonlinear Optimal Control, specifically for multi-agent systems, optimization, and space systems.
 
-== Education
+=== Experience
 
-- Aerospace Engineering, University of Michigan, PhD (in progress)
-- Aeronautical Engineering with a Year Abroad, Imperial College London, Massachusetts Institute of Technology, MEng
+- Senior Researcher, [https://www.lightspeed-studios.com/index.html Lightspeed Studios], 2021-2024
+- Postdoc., [https://motion.cs.illinois.edu/ The Intelligent Motion Lab, University of Illinois Urbana-Champaign], 2020-2021
+- Ph.D. in Computer Science, [https://cs.unc.edu/ University of North Carolina at Chapel Hill], 2015-2019
+- Research Assistant, [http://www.cad.zju.edu.cn/english.html State Key Lab of CAD&CG, Zhejiang University], 2011-2015
+- B.E. in Software \& B.S. in Applied Math, [https://en.sjtu.edu.cn/about/general_information Shanghai Jiaotong University], 2007-2011
 
-== Contact
-[mailto:devansh@umich.edu {{<i class="fa fa-envelope" aria-hidden="true"></i>}} Email]
-
-[https://github.com/dev10110 {{<i class="fa fa-github" aria-hidden="true"></i>}} Github]
-
-[https://www.linkedin.com/in/devansh-r-agrawal/ {{<i class="fa fa-linkedin" aria-hidden="true"></i>}} LinkedIn]
-
+=== Contact
+[mailto:zherong.pan.usa@gmail.edu {{<i class="fa fa-envelope" aria-hidden="true"></i>}} Email]
+$\quad$
+[https://github.com/dyingbrain {{<i class="fa fa-github" aria-hidden="true"></i>}} Github]
+$\quad$
+[https://www.linkedin.com/in/zherong-pan-29a743129/ {{<i class="fa fa-linkedin" aria-hidden="true"></i>}} LinkedIn]
+$\quad$
 [https://orcid.org/0000-0002-0236-9077 {{<i class="ai ai-orcid ai"></i>}} ORCID]
-
-[https://scholar.google.co.uk/citations?user=0R2CO0wAAAAJ&hl=en {{<i class="ai ai-google-scholar ai"></i>}} Google Scholar]
+$\quad$
+[https://scholar.google.com/citations?user=0KfKHOsAAAAJ&hl=en {{<i class="ai ai-google-scholar ai"></i>}} Google Scholar]

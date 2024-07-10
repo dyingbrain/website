@@ -7,7 +7,7 @@ build :
 	cp jemdoc.css html
 	cp -r src/assets html
 	echo "  *** BUILDING FILES"
-	cd src && python ../jemdoc -c mysite.conf -o ../html/ *.jemdoc
+	cd src && python3 ../jemdoc -c mysite.conf -o ../html/ *.jemdoc
 	echo "  *** DONE"
 
 # clean out the html folder for a new version (useful to clean old assets)

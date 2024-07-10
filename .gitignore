@@ -3,6 +3,9 @@
 
 html/
 
+# ignore the vscode project file
+
+.vscode
 
 
 
